@@ -347,3 +347,11 @@ Sources:
 
 
 _Complexity chapter - coming soon_
+
+# About
+
+This guide was created in Ackee Blockchain as part of our mission to contribute to a stronger blockchain ecosystem by sharing our knowledge.
+
+## Credits
+
+- [Böhm](https://github.com/bemic)
